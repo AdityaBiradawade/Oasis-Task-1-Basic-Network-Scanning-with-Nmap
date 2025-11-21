@@ -1,9 +1,9 @@
-Task 1 — Basic Network Scanning with Nmap
+# Task 1 — Basic Network Scanning with Nmap
 
 This task focuses on performing a basic network scan using Nmap to identify open ports and running services on the target machine within the local network.
 Nmap is a powerful network reconnaissance tool widely used in the cybersecurity for mapping networks and detecting vulnerablities.
 
-Tools Used:-
+# Tools Used:-
 1) Virtual box
 2) Kali Linux
 3) Nmap 7.95
